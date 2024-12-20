@@ -1,4 +1,5 @@
 # Project-Tasks
+# Task-2
 # Chat with PDF using RAG Pipeline
 This project uses Python to scrape content from websites, process it using embeddings, and generate AI-based summaries for user queries.
 
